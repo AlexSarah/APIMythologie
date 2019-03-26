@@ -9,7 +9,10 @@
     "description":"Goddess of beauty, love, desire, and pleasure. Although married to Hephaestus she had many lovers, most notably Ares, Adonis, and Anchises. She was depicted as an extraordinarily beautiful woman, with poets praising the radiance of her smile in particular. Her symbols include roses and other flowers, the scallop shell, and the myrtle wreath. Her sacred animals include doves and sparrows. Her Roman counterpart is Venus.",
     "immortal":"immortal",
     "gender":"female",
-    "images":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project.jpg/640px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project.jpg",
+    "images": {
+      "thumbnail":"",
+      "regular":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project.jpg/640px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project.jpg"
+    },
     "relatives": {
       "father":"",
       "mother":"",
@@ -28,7 +31,10 @@
     "description":"God of music, arts, knowledge, healing, plague, prophecy, poetry, manly beauty, and archery. He is the son of Zeus and Leto, and the twin brother of Artemis. Both Apollo and Artemis use a bow and arrow. Apollo is often incorrectly identified as the god of the sun. Although Apollo is the god of the sun in Roman mythology, Helios is the god of the sun in Greek mythology. In sculpture, Apollo is depicted as a very handsome, beardless young man with long hair and an ideal physique. As the embodiment of perfectionism, he could be cruel and destructive, and his love affairs were rarely happy. He often appears in the company of the Muses. His attributes include the laurel wreath and lyre. His sacred animals include roe deer, swans, cicadas, hawks, ravens, crows, foxes, mice, and snakes. His Roman counterpart is also named Apollo",
     "immortal":"immortal",
     "gender":"male",
-    "images": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Niobe_JacquesLouisDavid_1772_Dallas_Museum_of_Art.jpg",
+    "images": {
+      "thumbnail":"",
+      "regular":"https://upload.wikimedia.org/wikipedia/commons/6/6c/Niobe_JacquesLouisDavid_1772_Dallas_Museum_of_Art.jpg"
+    },
     "relatives": {
       "father":"",
       "mother":"",
@@ -47,7 +53,10 @@
     "description":"God of war, bloodshed, and violence. The son of Zeus and Hera, he was depicted as a beardless youth, either nude with a helmet and spear or sword, or as an armed warrior. Homer portrays him as moody and unreliable, and he generally represents the chaos of war in contrast to Athena, a goddess of military strategy and skill. Ares is known for cuckolding his brother Hephaestus and conducting an affair with Aphrodite. His sacred animals include vultures, venomous snakes, dogs, and boars. His Roman counterpart Mars by contrast was regarded as the dignified ancestor of the Roman people.",
     "immortal":"immortal",
     "gender":"male",
-    "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Jacques-Louis_David_Aphrodite_Ares_Graces.jpg/523px-Jacques-Louis_David_Aphrodite_Ares_Graces.jpg",
+    "images": {
+      "thumbnail":"",
+      "regular":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Jacques-Louis_David_Aphrodite_Ares_Graces.jpg/523px-Jacques-Louis_David_Aphrodite_Ares_Graces.jpg"
+    },
     "relatives": {
       "father":"",
       "mother":"",
@@ -66,7 +75,10 @@
     "description":"Virgin goddess of the hunt, wilderness, animals, young girls, childbirth, and plague. In later times Artemis became associated with bows and arrows. She is the daughter of Zeus and Leto, and twin sister of Apollo. In art she is often depicted as a young woman dressed in a short knee-length chiton and equipped with a hunting bow and a quiver of arrows. Her attributes include hunting spears, animal pelts, deer and other wild animals. Her sacred animals include deer, bears, and wild boars. Her Roman counterpart is Diana.",
     "immortal":"immortal",
     "gender":"female",
-    "images":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Tizian_015.jpg/834px-Tizian_015.jpg",
+    "images": {
+      "thumbnail":"",
+      "regular":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Tizian_015.jpg/834px-Tizian_015.jpg"
+    },
     "relatives": {
       "father":"",
       "mother":"",
@@ -85,7 +97,8 @@
     "description":"Goddess of reason, wisdom, intelligence, skill, peace, warfare, battle strategy, and handicrafts. According to most traditions, she was born from Zeus's forehead, fully formed and armored. She is depicted as being crowned with a crested helm, armed with shield and spear, and wearing the aegis over a long dress. Poets describe her as \"grey-eyed\" or having especially bright, keen eyes. She is a special patron of heroes such as Odysseus. She is the patron of the city Athens (which was named after her) and is attributed to various inventions in arts and literature. Her symbol is the olive tree. She is commonly shown as being accompanied by her sacred animal, the owl. Her Roman counterpart is Minerva.",
     "immortal":"immortal",
     "gender":"female",
-    "images":
+    "images": {
+      "thumbnail":"",
       "regular":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mengs%2C_Urteil_des_Paris.jpg/634px-Mengs%2C_Urteil_des_Paris.jpg"
     },
     "relatives": {
